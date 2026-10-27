@@ -1,6 +1,6 @@
-# MediLens site data
+# MediLense site data
 
-Parquet tables and JSON files behind the MediLens website, published as release assets
+Parquet tables and JSON files behind the MediLense website, published as release assets
 (release `site-data`). They are derived from the U.S. FDA Adverse Event Reporting System
 (FAERS) through openFDA, which is public-domain data.
 
